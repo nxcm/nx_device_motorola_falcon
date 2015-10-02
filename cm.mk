@@ -4,7 +4,7 @@ $(call inherit-product, device/motorola/falcon/full_falcon.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 PRODUCT_RELEASE_NAME := MOTO G
-PRODUCT_NAME := cm_falcon
+PRODUCT_NAME := nx_falcon
 NX_MODEL_NAME := Moto G (2013)
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
